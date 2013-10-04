@@ -77,6 +77,17 @@ By the end of the conference:
     a project lead by a group of developers, advocates and activists, to help
     programming advance in Africa
 
+### Existing open-source communities in Africa
+
+#### Python
+
+* [Nairobi Python users group](https://groups.google.com/forum/#!forum/naipug)
+* [Ghana Python user group](http://www.meetup.com/Ghanas-Python-User-Group/)
+
+#### Others
+
+* [Uganda Linux user group](http://www.linux.or.ug)
+
 ## Potential contributors/participants
 
 ### Organisation
