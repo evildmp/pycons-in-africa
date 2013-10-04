@@ -51,6 +51,9 @@ By the end of the conference:
         * communities
     * will have been introduced to active participation in some of the world's largest open source software projects
     * will have formed communities and networks
+* local decision-makers and procurement agencies will ...
+* open source software and Python in particular will ...
+* members of the international Python community will have established contact and formed connections with members of the local community
 
 ## Why open source?
 
