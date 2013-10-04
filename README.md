@@ -34,9 +34,9 @@ This will be a technical conference, following the model of traditional [PyCons]
 
 #### About PyCons
 
-Most PyCons are local editions of the conference. PyCon in North America and EuroPython are very large international events; most others are considerably smaller and serve a more local community.
+Most PyCons are local editions of the conference. [PyCon](https://us.pycon.org) in North America and [EuroPython](https://europython.eu) are very large international events; most others are considerably smaller and serve a more local community.
 
-The vast majority of PyCon events rely on volunteers from the community. They are organised and managed by a local committee, with funding coming from ticket sales, sponsorship and support of organisations including the Python Software Foundation.
+The vast majority of PyCon events rely on volunteers from the community. They are organised and managed by a local committee, with funding coming from ticket sales, sponsorship and support of organisations including the [Python Software Foundation](http://python.org/psf/).
 
 A viable and sustainable PyCon in an African nation will need to be run largely on this basis. Support - technical, organisational or financial - may come from outside (as it usually does in any case), but the event will need to be owned by the local community.
 
@@ -111,7 +111,7 @@ By the end of the conference:
 * [Daniele Procida](http://medicine.cardiff.ac.uk/person/mr-daniele-marco-procida/), Cardiff University School of Medicine
 
     *   Python/Django developer
-    *   member of the Django Software Foundation
+    *   member of the [Django Software Foundation](https://www.djangoproject.com/foundation/)
     *   author/presenter of the [Don't be afraid to commit](http://dont-be-afraid-to-commit.readthedocs.org/en/latest/) workshop, aimed at helping Python developers into participation in large open-source projects
 
 ### Funding
