@@ -17,6 +17,10 @@ To hold a PyCon (Python conference) in an African nation, aimed at:
 * helping equip the host nation with a skillset that will enable it to build and maintain sustainable local IT infrastructures
 * helping establish open source software as an obvious choice for African agencies and the foreign donor community
 
+### Where in Africa
+
+* sub-Saharan Africa, excluding South Africa
+
 ### The conference format
 
 This will be a technical conference, following the model of traditional [PyCons](http://www.pycon.org/) held around the world.
