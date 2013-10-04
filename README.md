@@ -2,7 +2,7 @@
 
 ## The big idea
 
-To hold a PyCon (Python conference) in an African nation, aimed:
+To hold a PyCon (Python conference) in an African nation, aimed at:
 
 * nurturing the skills of local software developers
 * supporting and encouraging the formation of local open source development communities
@@ -59,9 +59,26 @@ By the end of the conference:
 
     a web-based knowledge management platform
 
-### Other initiatives
+### Other similarly-aligned initiatives
 
 * [Python African Tour](http://www.pythonafricantour.com)
-
     a project lead by a group of developers, advocates and activists, to help
     programming advance in Africa
+
+## Potential contributors/participants
+
+### Organisation
+
+* [Daniele Procida](http://medicine.cardiff.ac.uk/person/mr-daniele-marco-procida/), Cardiff University School of Medicine
+
+### Technical
+
+* [Daniele Procida](http://medicine.cardiff.ac.uk/person/mr-daniele-marco-procida/), Cardiff University School of Medicine
+
+    *   Python/Django developer
+    *   member of the Django Software Foundation
+    *   author/presenter of the [Don't be afraid to commit](http://dont-be-afraid-to-commit.readthedocs.org/en/latest/) workshop, aimed at helping Python developers into participation in large open-source projects
+
+### Funding
+
+* Wales4Africa and Cardiff University Phoenix project
