@@ -11,7 +11,7 @@
 
 ## The big idea
 
-To hold a PyCon (Python conference) in an African nation, aimed at:
+To hold a PyCon ([Python](http://www.python.org) conference) in an African nation, aimed at:
 
 * nurturing the skills of local software developers
 * supporting and encouraging the formation of local open source development communities
