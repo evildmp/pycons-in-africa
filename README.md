@@ -1,5 +1,7 @@
 # PyCons in Africa
 
+> This is the start of a first draft - please amend and add to it in whatever way you think appropriate. I'll continue work on it myself.
+
 ## The big idea
 
 To hold a PyCon (Python conference) in an African nation, aimed at:
