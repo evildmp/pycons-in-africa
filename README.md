@@ -41,7 +41,7 @@ By the end of the conference:
 
 * a modern language
 * a teaching language
-* Python and education
+* PyCon and education
 * the Python and PyCon culture and ethos
 
 ### Existing Python projects in Africa
