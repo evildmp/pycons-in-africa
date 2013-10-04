@@ -19,7 +19,8 @@ To hold a PyCon (Python conference) in an African nation, aimed at:
 
 ### Where in Africa
 
-* sub-Saharan Africa, excluding South Africa
+* sub-Saharan Africa
+* excluding South Africa, which has an active Python and open source software development community
 
 ### The conference format
 
@@ -29,6 +30,14 @@ This will be a technical conference, following the model of traditional [PyCons]
 * workshops and tutorials
 * code sprints
 * the community
+
+#### About PyCons
+
+Most PyCons are local editions of the conference. PyCon in North America and EuroPython are very large international events; most others are considerably smaller and serve a more local community.
+
+The vast majority of PyCon events rely on volunteers from the community. They are organised and managed by a local committee, with funding coming from ticket sales, sponsorship and support of organisations including the Python Software Foundation.
+
+A viable and sustainable PyCon in an African nation will need to be run largely on this basis. Support - technical, organisational or financial - may come from outside (as it usually does in any case), but the event will need to be owned by the local community.
 
 ### Objectives
 
@@ -89,6 +98,8 @@ By the end of the conference:
 * [Uganda Linux user group](http://www.linux.or.ug)
 
 ## Potential contributors/participants
+
+> If you or your organisation might be interested in being involved in any way, please add your information below
 
 ### Organisation
 
