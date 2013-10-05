@@ -57,17 +57,17 @@ By the end of the conference:
 
 ## Why open source?
 
-* the problem with closed projects, even as generous gifts
-* the problem with closed languages and architectures
-* sustainability
-* cost
+* the problem with closed projects, even as generous gifts...
+* the problem with closed languages and architectures...
+* sustainability...
+* cost...
 
 ## Why Python?
 
-* a modern language
-* a teaching language
-* PyCon and education
-* the Python and PyCon culture and ethos
+* a modern language...
+* a teaching language...
+* PyCon and education...
+* the Python and PyCon culture and ethos...
 
 ### Existing Python projects in Africa
 
@@ -87,6 +87,7 @@ By the end of the conference:
 ### Other similarly-aligned initiatives
 
 * [Python African Tour](http://www.pythonafricantour.com)
+
     a project lead by a group of developers, advocates and activists, to help
     programming advance in Africa
 
