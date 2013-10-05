@@ -100,6 +100,7 @@ By the end of the conference:
 #### Others
 
 * [Uganda Linux user group](http://www.linux.or.ug)
+* [DakarLUG](http://blog.dakarlug.org)
 
 ## Potential contributors/participants
 
