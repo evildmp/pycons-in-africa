@@ -1,5 +1,7 @@
 # PyCons in Africa
 
+> [PyCons in Africa email list](http://groups.google.com/group/pycons-in-africa) - please sign up if you'd like to be involved in any way
+
 > This is the start of a first draft - please amend and add to it in whatever way you think appropriate. I hope that I'll be able to present a proposal supported by:
 
 >   * Python/open source communities in Africa
