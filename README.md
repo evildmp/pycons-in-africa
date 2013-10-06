@@ -69,7 +69,9 @@ By the end of the conference:
 * PyCon and education...
 * the Python and PyCon culture and ethos...
 
-### Existing Python projects in Africa
+### Existing open source projects in Africa
+
+#### Python
 
 * [Project Mwana](http://www.caktusgroup.com/case-study/project-mwana/)
 
