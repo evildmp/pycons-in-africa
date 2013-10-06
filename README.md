@@ -97,7 +97,7 @@ Python has its roots in education, and was conceived in part as a language for c
 
 As well as being favoured in education, Python's connections with education have helped build around it a valuable ecosystem and culture that support new learners of the language.
 
-Again partly through its roots in education, the Python culture and community are very welcoming of new learners, and informed by a genuine ethos of friendliness and mutual support. This ethos is exemplified in the behaviour of the worldwide Python community, for example in the very strong codes of conduct that are adopted by PyCons, and the tenor of online communication within it.
+Again partly through its roots in education, the Python culture and community are very welcoming of new learners, and informed by a genuine ethos of friendliness and mutual support. This ethos is exemplified in the behaviour of the worldwide Python community, for example in the very strong [codes of conduct that are adopted by PyCons](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md), and the tenor of online communication within it.
 
 The Python community's spirit of generosity and its concerted engagement with questions of diversity within IT help make Python an especially appropriate choice for a conference of the kind proposed.
 
