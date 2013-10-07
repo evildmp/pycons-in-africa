@@ -159,6 +159,17 @@ The Python community's spirit of generosity and its concerted engagement with qu
     *   member of the [Django Software Foundation](https://www.djangoproject.com/foundation/)
     *   author/presenter of the [Don't be afraid to commit](http://dont-be-afraid-to-commit.readthedocs.org/en/latest/) workshop, aimed at helping Python developers into participation in large open-source projects
 
+* [Carles Pina](http://pintant.cat)
+
+     *  Software Engineer in C++ and Qt (and other tools)
+     *  Python Code Dojo regular attendant
+     *  some experience in teaching (Linux Professional Institute, Mysql, Bash, Python for non-programmers in one day, etc.)
+     *  interested in Free Software
+         *  ([qdacco](http://www.catalandictionary.org/eng/?q=node/40) available in Debian/Ubuntu
+         *  [Catux-USB](http://bulma.net/body.phtml?nIdNoticia=2064)
+         *  added support for gettext to GRUB 2.0, etc.
+     *  speaker in Fosdem and many small conferences in Spain (years ago too)
+
 ### Funding
 
 * Wales4Africa and Cardiff University Phoenix project
