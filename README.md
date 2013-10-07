@@ -145,6 +145,8 @@ The Python community's spirit of generosity and its concerted engagement with qu
 
 > If you or your organisation might be interested in being involved in any way, please add your information below
 
+* Carles Pina [blog](http://pintant.cat). Software Engineer in C++ and Qt (and other tools). Python Code Dojo regular attendant, some experience in teaching (Linux Professional Institute, Mysql, Bash -years ago-, Python for non-programmers in one day, etc.). Interested in Free Software ([qdacco](http://www.catalandictionary.org/eng/?q=node/40) available in Debian/Ubuntu, [Catux-USB](http://bulma.net/body.phtml?nIdNoticia=2064) -years ago-, added support to gettext to GRUB 2.0, etc.). Speaker in Fosdem and many small conferences in Spain (years ago too).
+
 ### Organisation
 
 * [Daniele Procida](http://medicine.cardiff.ac.uk/person/mr-daniele-marco-procida/), Cardiff University School of Medicine
