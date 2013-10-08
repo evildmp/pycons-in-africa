@@ -1,0 +1,1 @@
+A proposal [PyCons in Africa](http://pycons-in-africa.readthedocs.org)
