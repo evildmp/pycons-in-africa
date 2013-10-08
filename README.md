@@ -170,6 +170,13 @@ The Python community's spirit of generosity and its concerted engagement with qu
          *  added support for gettext to GRUB 2.0, etc.
      *  speaker in Fosdem and many small conferences in Spain (years ago too)
 
+* [Patrick Nsukami](http://about.me/lemeteore)
+
+    *   web developer Python, Java
+    *   member of the [Dakar Linux User Group](http://blog.dakarlug.org)
+    *   spreading free software whenever possible (barcamps, meetups, install parties, sfd, etc, ...)
+    *   have given some talks/workshops (java, python)
+
 ### Funding
 
 * Wales4Africa and Cardiff University Phoenix project
