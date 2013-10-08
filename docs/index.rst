@@ -29,7 +29,7 @@ Where in Africa
 
 The aim is to hold a PyCon in a sub-Saharan African nation (excluding South
 Africa, which already has an active Python and open source software development
-community and its own `PyCon South Africa <http://za.pycon.org>`_.
+community and its own `PyCon South Africa <http://za.pycon.org>`_).
 
 The host city will need to be one that already has local open source
 development communities with enough critical mass of people, skills, experience
