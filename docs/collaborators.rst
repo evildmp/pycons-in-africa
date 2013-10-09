@@ -40,3 +40,17 @@ Potential contributors/participants
     * spreading free software whenever possible (barcamps, meetups, install
       parties, sfd, etc, ...)
     * have given some talks/workshops (Java, Python)
+    
+.. _ibrahim_diop:
+
+* `Ibrahim Diop <http://ibrahim.zinaria.com>`_
+
+    * Freelance Python Developer
+    * `Dakar Linux User Group
+      <http://blog.dakarlug.org/>`_
+    * `Montreal Python User Group
+      <http://montrealpython.org/>`_
+    * Released open source python/django apps
+    * Promoting Technology in Africa through `OpenIt4Africa
+      <http://www.openit4africa.org>`_
+    * interested in free software
